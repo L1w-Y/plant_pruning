@@ -22,7 +22,11 @@ compile_commands.json
 ./vcs.xml
 ./workspace.xml
 ./modules.xml
+*.pt
+*.csv
+*.pkl
 GRTAGS
+*.ply
 GPATH
 GTAGS
 docs/book
